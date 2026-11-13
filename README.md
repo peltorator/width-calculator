@@ -15,7 +15,7 @@ This tool can compute these parameters for specified graphs or for all graphs wi
 Besides computing the parameters themselves, one application of the tool is to find examples of graphs for which the computed values among clemb, subw, #subw, and m-width are not all equal; we call such graphs _interesting_.
 Treewidth is not included in this comparison.
 
-This tool is supplementary material for the [following paper](TODO).
+This tool is supplementary material for the [following paper](https://arxiv.org/abs/2611.17307).
 See the paper for all the definitions of the terms used in this README.
 
 
